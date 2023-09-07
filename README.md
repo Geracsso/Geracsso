@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geracsso
 - 👀 I’m interested in Motion Design
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on apps and web based interactove content
+- 💞️ I’m looking to collaborate on apps and web based interactive content
 - 📫 How to reach me via inbox
 
 <!---
